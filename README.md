@@ -22,4 +22,4 @@ I wonder where the bones in my midface are. Is the sinus cavity really that big?
 ![slouched profile](EEFA9DCA.png)
 The xray tech told me to slouch for this one: "the complete opposite of what your mother always told you"
 
-You can see my hyoid really clearly, as well as the filling in my right, lower, rearmost molar, and the bony bridge of my nose, and a bit of my hair. You can see how my upper rear molars are tipped and hadn't dropped all the way. I've since gotten braces and worn rubber bands to readjust them. At the time I wasn't even aware that was abnormal.
+You can see my hyoid really clearly, as well as the filling in my right, lower, rearmost molar, and the bony bridge of my nose, and a bit of my hair, and my spinal cord, and those huge fins on the back of the neck vertebrae. You can see how my upper rear molars are tipped and hadn't dropped all the way. I've since gotten braces and worn rubber bands to readjust them. At the time I wasn't even aware that was abnormal.
