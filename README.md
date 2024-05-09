@@ -7,7 +7,7 @@ When I showed up at the hospital a few days later, they handed me a CD. The only
 Eventually I stumbled across mention of `DICOM` files as a medical imaging standard, and there was a directory called `DICOM` containing several layers of folders with what could have been image files at the bottom. I tried uploading these files to file conversion websites, but these worked slowly, and some of the images appeared to be too large to handle. Some searching led me to discover that someone wrote a Python library for handling this file format, and conversion is very simple. Then [the code](convert.py) took all of a few minutes. I release it for the world here because this took me longer to figure out than it should have.
 
 ![mouth](EE0BCB6F.png)
-This was a last extra. He had me open my mouth so he could see the front of some of my upper vertebrae through the aperture between my teeth.
+For this one the tech had me open my mouth so he could see the front of some of my upper vertebrae through the aperture between my teeth.
 
 It's also extra freaky, like something out of Alien.
 
