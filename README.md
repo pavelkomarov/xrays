@@ -8,8 +8,10 @@ Eventually I stumbled across mention of `DICOM` files as a medical imaging stand
 
 <figure>
 <img src="EE0BCB6F.png" alt="mouth" />
-<figcaption>For this one the tech had me open my mouth so he could see the front of some of my upper vertebrae through the aperture between my teeth. It's also extra freaky, like something out of Alien.</figcaption>
+<figcaption>For this one the tech had me open my mouth so he could see the front of some of my upper vertebrae through the aperture between my teeth.</figcaption>
 </figure>
+
+It's also extra freaky, like something out of Alien.
 
 <figure>
 <img src="EE542215.png" alt="elongated neck" />
@@ -18,10 +20,14 @@ Eventually I stumbled across mention of `DICOM` files as a medical imaging stand
 
 <figure>
 <img src="EEBE3953.png" alt="twisted" />
-<figcaption>The suture across my right skull really stands out. I wonder where the bones in my midface are. Is the sinus cavity really that big? Is my maxilla just really out of focus?</figcaption>
+<figcaption>The suture across my right skull really stands out.</figcaption>
 </figure>
+
+I wonder where the bones in my midface are. Is the sinus cavity really that big? Is my maxilla just really out of focus?
 
 <figure>
 <img src="EEFA9DCA.png" alt="slouched profile" />
-<figcaption>The xray tech told me to slouch for this one: "the complete opposite of what your mother always told you." You can see my hyoid really clearly, as well as the filling in my right, lower, rearmost molar, and the bony bridge of my nose, and a bit of my hair, and my spinal cord, and those huge fins on the back of the neck vertebrae. You can see how my upper rear molars are tipped and hadn't dropped all the way. I've since gotten braces and worn rubber bands to readjust them. At the time I wasn't even aware that was abnormal.</figcaption>
+<figcaption>The xray tech told me to slouch for this one: "the complete opposite of what your mother always told you"</figcaption>
 </figure>
+
+You can see my hyoid really clearly, as well as the filling in my right, lower, rearmost molar, and the bony bridge of my nose, and a bit of my hair, and my spinal cord, and those huge fins on the back of the neck vertebrae. You can see how my upper rear molars are tipped and hadn't dropped all the way. I've since gotten braces and worn rubber bands to readjust them. At the time I wasn't even aware that was abnormal.
