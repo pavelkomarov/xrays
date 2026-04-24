@@ -6,20 +6,24 @@ When I showed up at the hospital a few days later, they handed me a CD. The only
 
 Eventually I stumbled across mention of `DICOM` files as a medical imaging standard, and there was a directory called `DICOM` containing several layers of folders with what could have been image files at the bottom. I tried uploading these files to file conversion websites, but these worked slowly, and some of the images appeared to be too large to handle. Some searching led me to discover that someone wrote a Python library for handling this file format, and conversion is very simple. Then [the code](convert.py) took all of a few minutes. I release it for the world here because this took me longer to figure out than it should have.
 
-![mouth](EE0BCB6F.png)
+<p align="center"><img src="EE0BCB6F.png" alt="mouth" /></p>
+
 For this one the tech had me open my mouth so he could see the front of some of my upper vertebrae through the aperture between my teeth.
 
 It's also extra freaky, like something out of Alien.
 
-![elongated neck](EE542215.png)
+<p align="center"><img src="EE542215.png" alt="elongated neck" /></p>
+
 I like how my skull glows in this one, and how the vertebrae look when my neck is extended like that.
 
-![twisted](EEBE3953.png)
+<p align="center"><img src="EEBE3953.png" alt="twisted" /></p>
+
 The suture across my right skull really stands out.
 
 I wonder where the bones in my midface are. Is the sinus cavity really that big? Is my maxilla just really out of focus?
 
-![slouched profile](EEFA9DCA.png)
+<p align="center"><img src="EEFA9DCA.png" alt="slouched profile" /></p>
+
 The xray tech told me to slouch for this one: "the complete opposite of what your mother always told you"
 
 You can see my hyoid really clearly, as well as the filling in my right, lower, rearmost molar, and the bony bridge of my nose, and a bit of my hair, and my spinal cord, and those huge fins on the back of the neck vertebrae. You can see how my upper rear molars are tipped and hadn't dropped all the way. I've since gotten braces and worn rubber bands to readjust them. At the time I wasn't even aware that was abnormal.
